@@ -4,8 +4,7 @@ import NewCards from './components/NewsCards/NewsCards.js';
 import Footer from './components/layout/Footer.js';
 import Header from './components/layout/Header.js';
 import './App.css';
-import { ToastContainer } from "react-toastify";
-import "react-toastify/dist/ReactToastify.min.css";
+
 
 const alankey ='6cf90c97ff11b50112af0bc4362d235d2e956eca572e1d8b807a3e2338fdd0dc/stage';
 
